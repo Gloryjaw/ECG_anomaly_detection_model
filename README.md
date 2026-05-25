@@ -20,7 +20,7 @@ The model is designed to recognize complex morphological features in the ECG wav
 
 ## Technology Stack
 
-* **Machine Learning:** Python, TensorFlow/Keras (or PyTorch), NumPy, Pandas
+* **Machine Learning:** Python, TensorFlow/Keras, NumPy, Pandas
 * **Data Integration:** PySerial (for hardware-to-software communication)
 * **Embedded Software:** C++ / Arduino IDE for data sampling and transmission
 * **Hardware Platforms:** * Raspberry Pi (Inference & Edge Computing)
